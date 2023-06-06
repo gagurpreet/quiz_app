@@ -14,8 +14,12 @@ Using our project is incredibly straightforward. Just follow these simple steps:
     - **Delete quizzes**: Remove any unwanted quizzes from the system.
 With these intuitive features at your fingertips, you have full control over your quiz experience. Start exploring, learning, and having fun right away!
 
-Sign-up page: ![in-app screenshot](client/images/Screenshot%202023-06-05%20at%204.22.35%20pm.png)
-Home page: ![in-app screenshot](client/images/Screenshot%202023-06-05%20at%204.24.16%20pm.png)
+Sign-up page:
+![image](https://github.com/gagurpreet/quiz_app/assets/129696535/95cc1bbc-8840-46d7-9914-3a0b0fae04fd)
+
+Home page:
+![image](https://github.com/gagurpreet/quiz_app/assets/129696535/d0501616-2bde-4516-96e5-bd175e4df543)
+
 
 ## :pencil2: Planning & Problem Solving
 Our team took on the task of developing a user-friendly quiz application using Node Express. Below, you can see the key steps we followed in the planning and problem-solving process to ensure the success of our project.
